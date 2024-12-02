@@ -1,0 +1,17 @@
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\045_Ramos_Pinera_F1db.csproj.AssemblyReference.cache
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\_045_Ramos_Pinera_F1db.frmAdd.resources
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\_045_Ramos_Pinera_F1db.frmMain.resources
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\_045_Ramos_Pinera_F1db.Properties.Resources.resources
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\045_Ramos_Pinera_F1db.csproj.GenerateResource.cache
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\045_Ramos_Pinera_F1db.csproj.CoreCompileInputs.cache
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\bin\Debug\045_Ramos_Pinera_F1db.exe.config
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\bin\Debug\045_Ramos_Pinera_F1db.exe
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\bin\Debug\045_Ramos_Pinera_F1db.pdb
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\bin\Debug\System.Data.OleDb.dll
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\bin\Debug\System.Data.OleDb.xml
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\045_Ramos_Pinera_F1db.csproj.CopyComplete
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\045_Ramos_Pinera_F1db.exe
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\045_Ramos_Pinera_F1db.pdb
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\_045_Ramos_Pinera_F1db.frmDelete.resources
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\_045_Ramos_Pinera_F1db.frmUpdate.resources
+Z:\045_Ramos\045_Ramos_Pinera_F1db\045_Ramos_Pinera_F1db\obj\Debug\_045_Ramos_Pinera_F1db.frmSearch.resources
